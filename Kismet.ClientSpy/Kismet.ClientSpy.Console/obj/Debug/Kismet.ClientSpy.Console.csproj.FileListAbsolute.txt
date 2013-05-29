@@ -1,0 +1,8 @@
+C:\Users\Vidar\Documents\GitHub\Kismet.ClientSpy\Kismet.ClientSpy\Kismet.ClientSpy.Console\bin\Debug\Kismet.ClientSpy.Console.exe.config
+C:\Users\Vidar\Documents\GitHub\Kismet.ClientSpy\Kismet.ClientSpy\Kismet.ClientSpy.Console\bin\Debug\Kismet.ClientSpy.Console.exe
+C:\Users\Vidar\Documents\GitHub\Kismet.ClientSpy\Kismet.ClientSpy\Kismet.ClientSpy.Console\bin\Debug\Kismet.ClientSpy.Console.pdb
+C:\Users\Vidar\Documents\GitHub\Kismet.ClientSpy\Kismet.ClientSpy\Kismet.ClientSpy.Console\bin\Debug\Kismet.ClientSpy.Client.dll
+C:\Users\Vidar\Documents\GitHub\Kismet.ClientSpy\Kismet.ClientSpy\Kismet.ClientSpy.Console\bin\Debug\Kismet.ClientSpy.Client.pdb
+C:\Users\Vidar\Documents\GitHub\Kismet.ClientSpy\Kismet.ClientSpy\Kismet.ClientSpy.Console\obj\Debug\Kismet.ClientSpy.Console.csprojResolveAssemblyReference.cache
+C:\Users\Vidar\Documents\GitHub\Kismet.ClientSpy\Kismet.ClientSpy\Kismet.ClientSpy.Console\obj\Debug\Kismet.ClientSpy.Console.exe
+C:\Users\Vidar\Documents\GitHub\Kismet.ClientSpy\Kismet.ClientSpy\Kismet.ClientSpy.Console\obj\Debug\Kismet.ClientSpy.Console.pdb

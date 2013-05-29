@@ -1,0 +1,5 @@
+C:\Users\Vidar\Documents\GitHub\Kismet.ClientSpy\Kismet.ClientSpy\Kismet.ClientSpy.Client\bin\Debug\Kismet.ClientSpy.Client.dll
+C:\Users\Vidar\Documents\GitHub\Kismet.ClientSpy\Kismet.ClientSpy\Kismet.ClientSpy.Client\bin\Debug\Kismet.ClientSpy.Client.pdb
+C:\Users\Vidar\Documents\GitHub\Kismet.ClientSpy\Kismet.ClientSpy\Kismet.ClientSpy.Client\obj\Debug\Kismet.ClientSpy.Client.csprojResolveAssemblyReference.cache
+C:\Users\Vidar\Documents\GitHub\Kismet.ClientSpy\Kismet.ClientSpy\Kismet.ClientSpy.Client\obj\Debug\Kismet.ClientSpy.Client.dll
+C:\Users\Vidar\Documents\GitHub\Kismet.ClientSpy\Kismet.ClientSpy\Kismet.ClientSpy.Client\obj\Debug\Kismet.ClientSpy.Client.pdb
